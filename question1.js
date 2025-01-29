@@ -1,4 +1,5 @@
 // compare the triplets propblem
+// from TapAcademy yt channel 
 
 let alice = [1, 3, 4];
 let bob = [0, 2, 1];
